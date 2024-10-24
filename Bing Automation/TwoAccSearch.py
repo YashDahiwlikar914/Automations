@@ -21,7 +21,27 @@ Arr = [
     "Hotmail",
     "Roblox",
     "Pinterest",
-    "Sarekari Result"
+    "Sarekari Result",
+    "Technology",
+    "Social Media",
+    "Gaming",
+    "Entertainment",
+    "News and Politics",
+    "Health and Wellness",
+    "Education",
+    "Travel",
+    "Finance and Investing",
+    "Fashion and Beauty",
+    "Anime and Manga",
+    "Cosplay",
+    "DIY and Crafts",
+    "Book Reviews and Recommendations",
+    "Food and Cooking",
+    "Artificial Intelligence",
+    "Virtual Reality and Augmented Reality",
+    "Cryptocurrency and Blockchain",
+    "Climate Change and Sustainability",
+    "E-commerce and Online Shopping"
 ]
 
 
